@@ -16,9 +16,6 @@
     "components/ToString.coffee"
     "index.js"
   ],
-  "json": [
-    "component.json"
-  ],
   "noflo": {
     "components": {
       "ToExponential": "components/ToExponencial.coffee",
