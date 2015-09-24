@@ -13,8 +13,11 @@
     "components/ToExponencial.coffee",
     "components/ToFixed.coffee",
     "components/ToPrecision.coffee",
-    "components/ToString.coffee"
+    "components/ToString.coffee",
     "index.js"
+  ],
+  "json": [
+    "component.json"
   ],
   "noflo": {
     "components": {
