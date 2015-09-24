@@ -9,10 +9,22 @@
   "dependencies": {
     "noflo/noflo": "*"
   },
-  "remotes": [
-    "https://raw.githubusercontent.com"
-  ],
   "scripts": [
+    "components/ToExponencial.coffee",
+    "components/ToFixed.coffee",
+    "components/ToPrecision.coffee",
+    "components/ToString.coffee"
     "index.js"
-  ]
+  ],
+  "json": [
+    "component.json"
+  ],
+  "noflo": {
+    "components": {
+      "ToExponential": "components/ToExponencial.coffee",
+      "ToFixed": "components/ToFixed.coffee",
+      "ToPrecision": "components/ToPrecision.coffee",
+      "ToString": "components/ToString.coffee"
+    }
+  }
 }
