@@ -10,7 +10,7 @@
     "noflo/noflo": "*"
   },
   "scripts": [
-    "components/ToExponencial.coffee",
+    "components/ToExponential.coffee",
     "components/ToFixed.coffee",
     "components/ToPrecision.coffee",
     "components/ToString.coffee",
@@ -21,7 +21,7 @@
   ],
   "noflo": {
     "components": {
-      "ToExponential": "components/ToExponencial.coffee",
+      "ToExponential": "components/ToExponential.coffee",
       "ToFixed": "components/ToFixed.coffee",
       "ToPrecision": "components/ToPrecision.coffee",
       "ToString": "components/ToString.coffee"

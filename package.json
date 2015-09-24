@@ -37,7 +37,7 @@
   },
   "noflo": {
     "components": {
-      "ToExponential": "components/ToExponencial.coffee",
+      "ToExponential": "components/ToExponential.coffee",
       "ToFixed": "components/ToFixed.coffee",
       "ToPrecision": "components/ToPrecision.coffee",
       "ToString": "components/ToString.coffee"
