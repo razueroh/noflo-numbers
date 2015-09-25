@@ -1,9 +1,9 @@
 {
   "name": "noflo-numbers",
-  "description": "Component library for number representation",
+  "description": "Number representation for NoFlo",
   "author": "Rafael Azuero Hurtado <razueroh@gmail.com>",
   "repo": "razueroh/noflo-numbers",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "keywords": [
   ],
   "dependencies": {
