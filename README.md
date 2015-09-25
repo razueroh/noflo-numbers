@@ -1,4 +1,5 @@
-# Number representation for NoFlo <br> [![Build Status](https://secure.travis-ci.org/razueroh/noflo-numbers.png?branch=master)](http://travis-ci.org/razueroh/noflo-numbers) [![npm version](https://badge.fury.io/js/noflo-numbers.svg)](http://badge.fury.io/js/noflo-numbers)
+# Number representation for NoFlo
+[![Build Status](https://secure.travis-ci.org/razueroh/noflo-numbers.png?branch=master)](http://travis-ci.org/razueroh/noflo-numbers) [![npm version](https://badge.fury.io/js/noflo-numbers.svg)](http://badge.fury.io/js/noflo-numbers)
 
 This package provides utility components for number representation in [NoFlo](http://noflojs.org/). Based on  [Javascript Number Methods](http://www.w3schools.com/js/js_number_methods.asp).
 
