@@ -1,4 +1,4 @@
-# noflo-numbers [![Build Status](https://secure.travis-ci.org/razueroh/noflo-numbers.png?branch=master)](http://travis-ci.org/razueroh/noflo-numbers) [![npm version](https://badge.fury.io/js/noflo-numbers.svg)](http://badge.fury.io/js/noflo-numbers)
+# Number representation for NoFlo <br> [![Build Status](https://secure.travis-ci.org/razueroh/noflo-numbers.png?branch=master)](http://travis-ci.org/razueroh/noflo-numbers) [![npm version](https://badge.fury.io/js/noflo-numbers.svg)](http://badge.fury.io/js/noflo-numbers)
 
 This package provides utility components for number representation in [NoFlo](http://noflojs.org/). Based on  [Javascript Number Methods](http://www.w3schools.com/js/js_number_methods.asp).
 
@@ -15,7 +15,7 @@ Converts a number into an exponential notation
 Port | Name | Datatype | Description
 -----|------|----------|-------------
 InPort | in | ```number``` | Input number
-InPort | digits | ```number``` | Digits after decimal point. Integer between 0 and 20. If omitted, it is set to as many digits as necessary to represent the value  
+InPort | digits | ```number``` | Digits after decimal point. Integer between 0 and 20. If omitted, it is set to as many digits as necessary to represent the value
 OutPort | out | ```string``` | A String, representing the number as an exponential notation
 
 ### ToFixed
@@ -46,5 +46,5 @@ Converts a number into a string
 Port | Name | Datatype | Description
 -----|------|----------|-------------
 InPort | in | ```number``` | Input number
-InPort | radix | ```number``` | Base to use. Integer between 2 and 36. Default 10.
+InPort | radix | ```number``` | Base to use. Integer between 2 and 36. Default 10. <br> - 2: Binary value <br> - 8: Octal value <br> - 16: Hexadecimal value  
 OutPort | out | ```string``` | A String, representing a number
