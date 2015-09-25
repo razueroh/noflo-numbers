@@ -1,6 +1,6 @@
 {
   "name": "noflo-numbers",
-  "description": "Component library for number representation",
+  "description": "Number representation for NoFlo",
   "version": "0.1.1",
   "author": {
     "name": "Rafael Azuero Hurtado",
