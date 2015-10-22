@@ -1,7 +1,7 @@
 {
   "name": "noflo-numbers",
   "description": "Number representation for NoFlo",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": {
     "name": "Rafael Azuero Hurtado",
     "email": "razueroh@gmail.com"

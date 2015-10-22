@@ -3,7 +3,7 @@
   "description": "Number representation for NoFlo",
   "author": "Rafael Azuero Hurtado <razueroh@gmail.com>",
   "repo": "razueroh/noflo-numbers",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "keywords": [],
   "dependencies": {
     "noflo/noflo": "*"
